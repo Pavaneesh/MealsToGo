@@ -32,7 +32,7 @@ npm install -g expo-cli
 </details>
 </details>
 <details>
-  <summary><a href="https://developer.android.com/studio">Simulater</a></summary>
+  <summary><a href="https://developer.android.com/studio">Simulator</a></summary>
 
 ```shell
 https://developer.android.com/studio
@@ -69,10 +69,10 @@ Runs the app in the development mode.\
 › Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
 › Metro waiting on exp://192.168.1.66:19000
 
-To open in simulater
+To open in simulater \
 › Press a │ open Android
 
-To open the app in web version
+To open the app in web version \
 › Press w │ open web
 
 The page will reload if you make edits.\
@@ -100,3 +100,5 @@ To learn Styled Components, check out the [Styled Components documentation](http
 To learn React Native Navigation, check out the [Navigation/Routing documentation](https://reactnavigation.org/docs/getting-started/).
 
 To learn Vector Icons, check out the [Vector Icons documentation](https://docs.expo.dev/guides/icons/#expovector-icons).
+
+To recursively transform key strings to camel-case, check out the [Camelize documentation](https://www.npmjs.com/package/camelize).
