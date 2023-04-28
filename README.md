@@ -99,6 +99,12 @@ To learn Styled Components, check out the [Styled Components documentation](http
 
 To learn React Native Navigation, check out the [Navigation/Routing documentation](https://reactnavigation.org/docs/getting-started/).
 
+To learn React Native Nesting Navigation, check out the [Nesting Navigators documentation](https://reactnavigation.org/docs/nesting-navigators/).
+
 To learn Vector Icons, check out the [Vector Icons documentation](https://docs.expo.dev/guides/icons/#expovector-icons).
 
 To recursively transform key strings to camel-case, check out the [Camelize documentation](https://www.npmjs.com/package/camelize).
+
+To learn Geocoding, check out the [Geocoding documentation](https://developers.google.com/maps/documentation/geocoding).
+
+To learn Maps, check out the [Maps documentation](https://docs.expo.dev/versions/latest/sdk/map-view/).
