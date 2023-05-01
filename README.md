@@ -108,3 +108,5 @@ To recursively transform key strings to camel-case, check out the [Camelize docu
 To learn Geocoding, check out the [Geocoding documentation](https://developers.google.com/maps/documentation/geocoding).
 
 To learn Maps, check out the [Maps documentation](https://docs.expo.dev/versions/latest/sdk/map-view/).
+
+To learn Async Storage, check out the [Async Storage documentation](https://react-native-async-storage.github.io/async-storage/docs/usage/).
